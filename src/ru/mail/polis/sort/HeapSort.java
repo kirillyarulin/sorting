@@ -47,6 +47,4 @@ public class HeapSort<T> extends AbstractSortOnComparisons<T> {
         return 2 * i + 2;
     }
 
-
-
 }
